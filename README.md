@@ -2,7 +2,7 @@
 
 ## Demo
 
-This project is a cool image transition effect created with JavaScript, GSAP, and Three.js. The effect uses a liquid-like distortion to transition between two images.
+This project contains a cool image transition effect created with JavaScript, GSAP, and Three.js. The effect uses a liquid-like distortion to transition between two images.
 Installation
 
 To use this project, follow these steps:
